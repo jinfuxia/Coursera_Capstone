@@ -1,1 +1,1 @@
-# applied-science-capstone
+# Coursera_Capstone
